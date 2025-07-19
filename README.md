@@ -1,16 +1,27 @@
-## Hi there 👋
+### 👋 Hi, I'm Guilherme Pereira
 
-<!--
-**90baljeet/90Baljeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Bachelor's student in Computer Engineering at the University of Minho  
+💻 Passionate about software development, game programming, and distributed systems  
+🥋 Former high-level kickboxing athlete and university-level instructor
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Technologies I use:
+- **Languages:** Java, C, C++, Python, Haskell, C#, MySQL
+- **Tools:** Git, Linux, LaTeX, IntelliJ, Visual Studio Code
+
+---
+
+#### 📚 Highlighted Academic Projects:
+- 🎮 2D Game in Java – Object-Oriented Programming
+- 🔄 File Converter in C – Data Communication
+- 📈 Math Solver in MATLAB – Numerical Methods
+- 🌐 Multiplayer Game – Distributed Systems in Java
+
+---
+
+📄 [Latest CV (EN)](link-to-cv.pdf)  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+---
+
