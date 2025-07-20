@@ -20,7 +20,7 @@
 
 ---
 - 🔗 [My CV Website](https://90baljeet.github.io/CV/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🔗 [LinkedIn](www.linkedin.com/in/guilhermepereira90)
 - 💼 [GitHub](https://github.com/90Baljeet)
 - 📫 Email: guisanttiago@gmail.com
 
