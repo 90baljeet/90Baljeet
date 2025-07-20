@@ -19,9 +19,10 @@
 - 🌐 Multiplayer Game – Distributed Systems in Java
 
 ---
-
-📄 [Latest CV (EN)](link-to-cv.pdf)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🔗 [My CV Website](https://90Baljeet.github.io/cv)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [GitHub](https://github.com/90Baljeet)
+- 📫 Email: guisanttiago@gmail.com
 
 ---
 
